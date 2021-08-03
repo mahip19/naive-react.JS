@@ -1,6 +1,6 @@
 
 
-A simple reactJS application implementing hooks like useState, useContext, useRef and useEffect.
+A simple reactJS application implementing hooks like useState, useContext, useRef and useEffect.<br />
 Connected with Firebase for backend support.
 
 
