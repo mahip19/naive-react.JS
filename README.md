@@ -1,3 +1,11 @@
+
+
+A simple reactJS application implementing hooks like useState, useContext, useRef and useEffect.
+Connected with Firebase for backend support.
+
+
+---------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
